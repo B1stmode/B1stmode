@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm B1stmode
 
-<!--
-**B1stmode/B1stmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer focusing on **game development** and **front-end web development**.  
+I build small indie projects, learn by making things, and keep improving my skills through real work instead of theory.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- **Languages:** C# (Unity), HTML/CSS, JavaScript (beginner)
+- **Game Dev:** Unity, Visual Studio, asset management, basic gameplay programming
+- **Web Dev:** Front-end development, small interactive web tools
+- **3D:** Blender (basic modeling, UV unwrapping, texturing)
+- **Tools:** Git, GitHub, GitHub Desktop, GitLab, VS Code, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 What I Work On
+- Small Unity games and prototypes  
+- Front-end web projects  
+- Learning better coding practices  
+- Improving my 3D workflow for game assets  
+
+### 🚀 Goals
+- Build a strong portfolio  
+- Finish and publish more original projects  
+- Grow into a junior game & web developer
+
+Thanks for checking out my work.
