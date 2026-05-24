@@ -9,7 +9,7 @@ I learn by building real projects, solving practical problems, and iterating con
 - **GearUp** — PWA for airsoft inventory and loadout management
 - **Claude Meter** — VS Code extension for live Claude usage tracking
 
-## 🛠 Tech & Tools
+## Tech & Tools
 - **Languages:** C#, JavaScript, HTML/CSS, Python (learning)
 - **Game Dev:** Unity, gameplay systems, UI, project architecture
 - **Web & Tools:** Frontend development, PWAs, VS Code extensions
