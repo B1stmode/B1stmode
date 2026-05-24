@@ -1,24 +1,28 @@
-# 👋 Hey, I'm B1stmode
+# Hey, I'm B1stmode
 
-I’m a student developer focusing on **game development** and **front-end web development**.  
-I build small indie projects, learn by making things, and keep improving my skills through real work instead of theory.
+I build games, web apps, and developer tools — whatever the problem calls for.
 
-### 🔧 Skills & Tools
-- **Languages:** C# (Unity), HTML/CSS, JavaScript (beginner)
-- **Game Dev:** Unity, Visual Studio, asset management, basic gameplay programming
-- **Web Dev:** Front-end development, small interactive web tools
-- **3D:** Blender (basic modeling, UV unwrapping, texturing)
-- **Tools:** Git, GitHub, GitHub Desktop, GitLab, VS Code, Visual Studio
+I learn by building real projects, solving practical problems, and iterating constantly. My work ranges from atmospheric Unity game projects and PWAs to VS Code extensions and workflow tools.
 
-### 🎮 What I Work On
-- Small Unity games and prototypes  
-- Front-end web projects  
-- Learning better coding practices  
-- Improving my 3D workflow for game assets  
+## Current Projects
+- **Bohunice: The Last Shift** — atmospheric PSX-inspired Unity project
+- **GearUp** — PWA for airsoft inventory and loadout management
+- **Claude Meter** — VS Code extension for live Claude usage tracking
 
-### 🚀 Goals
-- Build a strong portfolio  
-- Finish and publish more original projects  
-- Grow into a junior game & web developer
+## 🛠 Tech & Tools
+- **Languages:** C#, JavaScript, HTML/CSS, Python (learning)
+- **Game Dev:** Unity, gameplay systems, UI, project architecture
+- **Web & Tools:** Frontend development, PWAs, VS Code extensions
+- **AI Tools:** Claude (Chat, Cowork, Code) ChatGPT, Github Copilot
+- **Other:** Git, GitHub, VS Code, Visual Studio, Blender
+
+## Interests
+- Game atmosphere & systems
+- Developer tooling
+- Practical UI/UX
+- AI-assisted development workflows
+
+## Portfolio
+[Portfolio Website](https://b1stmode.github.io/WebsitePortfolio/)
 
 Thanks for checking out my work.
